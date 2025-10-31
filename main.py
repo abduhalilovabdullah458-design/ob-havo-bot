@@ -9,7 +9,7 @@ from decouple import config
 
 
 
-BOT_TOKEN = config('BOT_TOKEN')
+BOT_TOKEN = config('8284006780:AAFsIzPR_sQvklpBcToFFpVC6hxouGMIcpY')
 
 
 
